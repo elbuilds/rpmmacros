@@ -1,4 +1,4 @@
-ignature     gpg
+%_signature     gpg
 %_gpg_name      shell_way@foxmail.com
 %_smp_mflags    -j16
 %packager       mockbuilder
