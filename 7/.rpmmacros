@@ -1,0 +1,12 @@
+ignature     gpg
+%_gpg_name      shell_way@foxmail.com
+%_smp_mflags    -j16
+%packager       mockbuilder
+%dist           .el7.elbuilds
+%_host          elbuilds-mockbuilder
+%_vendor        elbuilds
+%_vendor_host   elbuilds-mockbuilder
+%centos_ver     7
+%rhel           7
+%redhat         7
+
